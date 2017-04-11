@@ -4,6 +4,7 @@ Learn how to setup npm &amp; Typescript with basics of Typescript.
 [Guide](https://www.codingforentrepreneurs.com/blog/typescript-setup-guide/) | [Video Series](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
 
 ====
+
 ### Lecture Code
 [3 - Configure Typescript](../../tree/8872f91e46b254de42340e0dd9ad37c41944cf3f)
 
