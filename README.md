@@ -1,3 +1,5 @@
+![Getting Started with Typescript logo](https://cfe2-static.s3-us-west-2.amazonaws.com/media/projects/getting-started-typescript/images/share/Getting_Started_with_Typescript.png)
+
 # Getting started with Typescript | Setup & Basics
 Learn how to setup npm &amp; Typescript with basics of Typescript. 
 
