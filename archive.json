@@ -10,17 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "main": "webpack --watch --optimize-minimize",
-    "server": "http-server -c-1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "learn",
-    "tutorial",
-    "webpack",
-    "typescript",
-    "npm"
-  ],
-  "author": "Justin Mitchel",
-  "license": "MIT"
+  "author": "",
+  "license": "ISC"
 }
