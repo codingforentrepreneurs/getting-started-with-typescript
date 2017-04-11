@@ -4,8 +4,10 @@
   "description": "Learn Typescript setup and some basics!",
   "main": "webpack.config.js",
   "dependencies": {
+    "jquery": "^3.2.1",
     "ts-loader": "^2.0.3",
     "typescript": "^2.2.2",
+    "typings": "^2.1.1",
     "webpack": "^2.3.3"
   },
   "devDependencies": {},
