@@ -2,6 +2,7 @@
 // joincfe.com/github
 // https://www.typescriptlang.org/docs/handbook/variable-declarations.html
 
+import { MustHaveCoffee } from './src/coffee/getcoffee'
 
 function f(input: boolean){
     let a = 100
@@ -14,6 +15,9 @@ function f(input: boolean){
 
 console.log(f(true))
 console.log(f(false))
+
+let coffee = new MustHaveCoffee()
+
 
 
 
